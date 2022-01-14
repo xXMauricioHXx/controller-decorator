@@ -40,6 +40,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ---
 
 <a href="https://github.com/xXMauricioHXx">
+ 
  <img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4D03AQHcYztxG6lv5w/profile-displayphoto-shrink_200_200/0/1612968776138?e=1647475200&v=beta&t=oSk0aobtYw-4uNSvhVoRQZ-I40Lt8hivBEx7IJ-YgmM" width="100px;" alt=""/>
  <br />
  <sub><b>Mauricio Henrique</b></sub></a>
